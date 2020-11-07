@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="SPL\inc\stm32f10x_adc.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9415" topLine="167" />
+		</Cursor>
+	</File>
+	<File name="SPL\inc\stm32f10x_gpio.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7446" topLine="165" />
+		</Cursor>
+	</File>
+	<File name="SPL\inc\stm32f10x_rcc.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20795" topLine="487" />
+		</Cursor>
+	</File>
+	<File name="SPL\inc\stm32f10x_tim.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="50537" topLine="1123" />
+		</Cursor>
+	</File>
+	<File name="SPL\src\stm32f10x_gpio.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="20314" topLine="531" />
+		</Cursor>
+	</File>
+	<File name="src\main.c" open="1" top="1" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1538" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="31" />
+			<Collapse line="85" />
+			<Collapse line="89" />
+		</Folding>
+	</File>
+</EmBitz_layout_file>

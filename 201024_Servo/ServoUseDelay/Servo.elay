@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBitz_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="inc\Core\Core.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="27120" topLine="911" />
+		</Cursor>
+	</File>
+	<File name="inc\Core\Core.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2966" topLine="83" />
+		</Cursor>
+	</File>
+	<File name="src\main.c" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1781" topLine="39" />
+		</Cursor>
+	</File>
+	<File name="src\startup_stm32f10x_md.S" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11508" topLine="250" />
+		</Cursor>
+	</File>
+	<File name="src\system_stm32f10x.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4678" topLine="104" />
+		</Cursor>
+	</File>
+</EmBitz_layout_file>
